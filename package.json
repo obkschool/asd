@@ -1,0 +1,21 @@
+{
+  "name": "xo-game",
+  "version": "1.0.0",
+  "description": "Online multiplayer Tic-Tac-Toe game with waiting rooms and chat",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "vercel-build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": ["tic-tac-toe", "game", "online", "multiplayer", "chat", "rooms"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "firebase": "^10.9.0"
+  },
+  "devDependencies": {
+    "vite": "^5.2.0"
+  }
+}
